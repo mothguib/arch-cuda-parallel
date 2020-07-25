@@ -1,4 +1,4 @@
-# Multiple Versions of CUDA Libraries On The Same Machine
+# Multiple Versions of CUDA Libraries On The Same Arch Linux Machine
 
 This file contains some useful aliases and way to handle multiple CUDA versions in Arch-based distributions.
 After doing all steps from [CUDA installation](#cuda-installation), reboot system. Initially, CUDA will not be set up. 
